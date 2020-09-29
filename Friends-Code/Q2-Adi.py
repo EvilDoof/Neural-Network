@@ -1,3 +1,5 @@
+import numpy as np
+import matplotlib as plt
 J=np.zeros((tm,1))
 W=np.zeros((tm,3))
 h=0
